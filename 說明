@@ -1,0 +1,2 @@
+在python3的環境下，請先安裝slenium 指令:pip install selenium  or  pip3 install selsnium
+下載chromedriver(對應自己的google chrome版本)https://chromedriver.chromium.org/
